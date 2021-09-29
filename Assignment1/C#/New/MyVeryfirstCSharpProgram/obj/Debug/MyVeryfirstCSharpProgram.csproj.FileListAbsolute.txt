@@ -1,0 +1,13 @@
+C:\Users\yuky2\source\repos\MyVeryfirstCSharpProgram\MyVeryfirstCSharpProgram\bin\Debug\MyVeryfirstCSharpProgram.exe.config
+C:\Users\yuky2\source\repos\MyVeryfirstCSharpProgram\MyVeryfirstCSharpProgram\bin\Debug\MyVeryfirstCSharpProgram.exe
+C:\Users\yuky2\source\repos\MyVeryfirstCSharpProgram\MyVeryfirstCSharpProgram\bin\Debug\MyVeryfirstCSharpProgram.pdb
+C:\Users\yuky2\source\repos\MyVeryfirstCSharpProgram\MyVeryfirstCSharpProgram\obj\Debug\MyVeryfirstCSharpProgram.csproj.AssemblyReference.cache
+C:\Users\yuky2\source\repos\MyVeryfirstCSharpProgram\MyVeryfirstCSharpProgram\obj\Debug\MyVeryfirstCSharpProgram.Properties.Resources.resources
+C:\Users\yuky2\source\repos\MyVeryfirstCSharpProgram\MyVeryfirstCSharpProgram\obj\Debug\MyVeryfirstCSharpProgram.csproj.GenerateResource.cache
+C:\Users\yuky2\source\repos\MyVeryfirstCSharpProgram\MyVeryfirstCSharpProgram\obj\Debug\MyVeryfirstCSharpProgram.csproj.CoreCompileInputs.cache
+C:\Users\yuky2\source\repos\MyVeryfirstCSharpProgram\MyVeryfirstCSharpProgram\obj\Debug\MyVeryfirstCSharpProgram.exe
+C:\Users\yuky2\source\repos\MyVeryfirstCSharpProgram\MyVeryfirstCSharpProgram\obj\Debug\MyVeryfirstCSharpProgram.pdb
+C:\Users\yuky2\source\repos\MyVeryfirstCSharpProgram\MyVeryfirstCSharpProgram\bin\Debug\zu-ZA\MyVeryfirstCSharpProgram.resources.dll
+C:\Users\yuky2\source\repos\MyVeryfirstCSharpProgram\MyVeryfirstCSharpProgram\obj\Debug\MyVeryfirstCSharpProgram.MyFristGUI.resources
+C:\Users\yuky2\source\repos\MyVeryfirstCSharpProgram\MyVeryfirstCSharpProgram\obj\Debug\MyVeryfirstCSharpProgram.MyFristGUI.zu-ZA.resources
+C:\Users\yuky2\source\repos\MyVeryfirstCSharpProgram\MyVeryfirstCSharpProgram\obj\Debug\zu-ZA\MyVeryfirstCSharpProgram.resources.dll
