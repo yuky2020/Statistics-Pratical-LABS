@@ -1,0 +1,12 @@
+C:\Users\yuky2\source\repos\AritMeanDistr\AritMeanDistr\bin\Debug\AritMeanDistr.exe.config
+C:\Users\yuky2\source\repos\AritMeanDistr\AritMeanDistr\bin\Debug\AritMeanDistr.exe
+C:\Users\yuky2\source\repos\AritMeanDistr\AritMeanDistr\bin\Debug\AritMeanDistr.pdb
+C:\Users\yuky2\source\repos\AritMeanDistr\AritMeanDistr\bin\Debug\AritMeanDistr.xml
+C:\Users\yuky2\source\repos\AritMeanDistr\AritMeanDistr\obj\Debug\AritMeanDistr.vbproj.AssemblyReference.cache
+C:\Users\yuky2\source\repos\AritMeanDistr\AritMeanDistr\obj\Debug\AritMeanDistr.Form1.resources
+C:\Users\yuky2\source\repos\AritMeanDistr\AritMeanDistr\obj\Debug\AritMeanDistr.Resources.resources
+C:\Users\yuky2\source\repos\AritMeanDistr\AritMeanDistr\obj\Debug\AritMeanDistr.vbproj.GenerateResource.cache
+C:\Users\yuky2\source\repos\AritMeanDistr\AritMeanDistr\obj\Debug\AritMeanDistr.vbproj.CoreCompileInputs.cache
+C:\Users\yuky2\source\repos\AritMeanDistr\AritMeanDistr\obj\Debug\AritMeanDistr.exe
+C:\Users\yuky2\source\repos\AritMeanDistr\AritMeanDistr\obj\Debug\AritMeanDistr.xml
+C:\Users\yuky2\source\repos\AritMeanDistr\AritMeanDistr\obj\Debug\AritMeanDistr.pdb
