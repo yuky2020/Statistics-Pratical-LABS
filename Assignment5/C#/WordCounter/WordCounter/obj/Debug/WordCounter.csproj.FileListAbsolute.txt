@@ -1,0 +1,10 @@
+C:\Users\yuky2\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.AssemblyReference.cache
+C:\Users\yuky2\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.Form1.resources
+C:\Users\yuky2\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.Properties.Resources.resources
+C:\Users\yuky2\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.GenerateResource.cache
+C:\Users\yuky2\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\yuky2\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\yuky2\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\yuky2\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\yuky2\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\yuky2\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.pdb

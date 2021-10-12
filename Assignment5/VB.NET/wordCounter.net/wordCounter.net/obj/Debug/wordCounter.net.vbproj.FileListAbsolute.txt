@@ -1,0 +1,12 @@
+C:\Users\yuky2\source\repos\wordCounter.net\wordCounter.net\bin\Debug\wordCounter.net.exe.config
+C:\Users\yuky2\source\repos\wordCounter.net\wordCounter.net\bin\Debug\wordCounter.net.exe
+C:\Users\yuky2\source\repos\wordCounter.net\wordCounter.net\bin\Debug\wordCounter.net.pdb
+C:\Users\yuky2\source\repos\wordCounter.net\wordCounter.net\bin\Debug\wordCounter.net.xml
+C:\Users\yuky2\source\repos\wordCounter.net\wordCounter.net\obj\Debug\wordCounter.net.vbproj.AssemblyReference.cache
+C:\Users\yuky2\source\repos\wordCounter.net\wordCounter.net\obj\Debug\wordCounter.net.Form1.resources
+C:\Users\yuky2\source\repos\wordCounter.net\wordCounter.net\obj\Debug\wordCounter.net.Resources.resources
+C:\Users\yuky2\source\repos\wordCounter.net\wordCounter.net\obj\Debug\wordCounter.net.vbproj.GenerateResource.cache
+C:\Users\yuky2\source\repos\wordCounter.net\wordCounter.net\obj\Debug\wordCounter.net.vbproj.CoreCompileInputs.cache
+C:\Users\yuky2\source\repos\wordCounter.net\wordCounter.net\obj\Debug\wordCounter.net.exe
+C:\Users\yuky2\source\repos\wordCounter.net\wordCounter.net\obj\Debug\wordCounter.net.xml
+C:\Users\yuky2\source\repos\wordCounter.net\wordCounter.net\obj\Debug\wordCounter.net.pdb

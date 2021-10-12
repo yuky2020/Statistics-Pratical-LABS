@@ -1,0 +1,12 @@
+C:\Users\yuky2\source\repos\Biavariante\Biavariante\bin\Debug\Biavariante.exe.config
+C:\Users\yuky2\source\repos\Biavariante\Biavariante\bin\Debug\Biavariante.exe
+C:\Users\yuky2\source\repos\Biavariante\Biavariante\bin\Debug\Biavariante.pdb
+C:\Users\yuky2\source\repos\Biavariante\Biavariante\bin\Debug\Biavariante.xml
+C:\Users\yuky2\source\repos\Biavariante\Biavariante\obj\Debug\Biavariante.vbproj.AssemblyReference.cache
+C:\Users\yuky2\source\repos\Biavariante\Biavariante\obj\Debug\Biavariante.Form1.resources
+C:\Users\yuky2\source\repos\Biavariante\Biavariante\obj\Debug\Biavariante.Resources.resources
+C:\Users\yuky2\source\repos\Biavariante\Biavariante\obj\Debug\Biavariante.vbproj.GenerateResource.cache
+C:\Users\yuky2\source\repos\Biavariante\Biavariante\obj\Debug\Biavariante.vbproj.CoreCompileInputs.cache
+C:\Users\yuky2\source\repos\Biavariante\Biavariante\obj\Debug\Biavariante.exe
+C:\Users\yuky2\source\repos\Biavariante\Biavariante\obj\Debug\Biavariante.xml
+C:\Users\yuky2\source\repos\Biavariante\Biavariante\obj\Debug\Biavariante.pdb
