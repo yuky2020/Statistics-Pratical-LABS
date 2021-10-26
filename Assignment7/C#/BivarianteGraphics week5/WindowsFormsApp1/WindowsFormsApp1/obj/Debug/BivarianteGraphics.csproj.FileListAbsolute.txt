@@ -1,0 +1,10 @@
+C:\Users\yuky2\source\repos\BivarianteGraphics\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\yuky2\source\repos\BivarianteGraphics\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\yuky2\source\repos\BivarianteGraphics\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\yuky2\source\repos\BivarianteGraphics\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BivarianteGraphics.csproj.AssemblyReference.cache
+C:\Users\yuky2\source\repos\BivarianteGraphics\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bivarianteform.resources
+C:\Users\yuky2\source\repos\BivarianteGraphics\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\yuky2\source\repos\BivarianteGraphics\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BivarianteGraphics.csproj.GenerateResource.cache
+C:\Users\yuky2\source\repos\BivarianteGraphics\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BivarianteGraphics.csproj.CoreCompileInputs.cache
+C:\Users\yuky2\source\repos\BivarianteGraphics\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\yuky2\source\repos\BivarianteGraphics\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
