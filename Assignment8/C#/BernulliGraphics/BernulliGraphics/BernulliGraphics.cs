@@ -3,11 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 
 namespace BernulliChart
-/*
-Given 2 variables from a csv compute and represent the statistical regression lines (X to Y and viceversa) and the scatterplot.
-Optionally, represent also the histograms on the "sides" of the chart (one could be draw vertically and the other one horizontally, in the position that you prefer).
-[Remember that all our charts must alway be done within "dynamic viewports" (movable/resizable rectangles). No third party libraries, to ensure ownership of creative process. May choose the language you prefer.].
-*/
+
 {
     public partial class BernulliGraphics : Form
     {
