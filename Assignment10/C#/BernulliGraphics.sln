@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BernulliGraphics", "BernulliGraphics\BernulliGraphics.csproj", "{6746F5AB-6802-4D40-B7EF-B06A7F838E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6746F5AB-6802-4D40-B7EF-B06A7F838E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6746F5AB-6802-4D40-B7EF-B06A7F838E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6746F5AB-6802-4D40-B7EF-B06A7F838E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6746F5AB-6802-4D40-B7EF-B06A7F838E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {665B1F1C-F0EB-4809-AA1D-8D251BE33FAE}
+	EndGlobalSection
+EndGlobal
